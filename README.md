@@ -15,3 +15,6 @@ Figma Design: [Web Login UI](https://www.figma.com/file/ovBIJuHBo7mVUvgWZ0WadX/L
 
 ## Register Screen
 ![SS](https://raw.githubusercontent.com/Gosmacx/FirebaseAuth-React/master/screenshots/register.png)
+
+## Responsive Design
+![SS](https://raw.githubusercontent.com/Gosmacx/FirebaseAuth-React/master/screenshots/responsive-login.png) ![SS](https://raw.githubusercontent.com/Gosmacx/FirebaseAuth-React/master/screenshots/responsive-register.png)
