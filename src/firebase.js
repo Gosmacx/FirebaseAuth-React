@@ -7,7 +7,7 @@ import {
  } from 'firebase/auth'
 
 const firebaseConfig = {
-    // ... Configure your firebase here ...
+    // ... Configure your firebase here
 };
 
 // Initialize Firebase
