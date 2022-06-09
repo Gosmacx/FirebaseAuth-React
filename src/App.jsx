@@ -4,7 +4,6 @@ import './App.css'
 import photo from './assets/Saly-14.png'
 import LoginSection from './compoenents/LoginSection'
 import RegisterSection from './compoenents/RegisterSection'
-import './firebase'
 
 function App() {
   const [register, setRegister] = useState(false)
