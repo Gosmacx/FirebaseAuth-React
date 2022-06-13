@@ -1,8 +1,4 @@
 import { useState } from 'react';
-import '../App.css'
-import apple from '../assets/apple.png'
-import fblogo from '../assets/fblogo.webp'
-import google from '../assets/google.png'
 import TextField from './TextField'
 import { register } from '../firebase'
 
@@ -47,9 +43,9 @@ function registerSection({ changeState }) {
             <span className='font-semibold text-[#B5B5B5] my-9 text-sm' >or continue with</span>
 
             <div className='flex items-center justify-center space-x-7' >
-                <img src={fblogo} width="40" alt="" />
-                <img src={apple} className="rounded-full" width="40" alt="" />
-                <img src={google} width="40" alt="" />
+                <img src="fblogo.webp" width="40" alt="" />
+                <img src="apple.png" className="rounded-full" width="40" alt="" />
+                <img src="google.png" width="40" alt="" />
             </div>
 
         </div>

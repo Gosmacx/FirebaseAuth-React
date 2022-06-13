@@ -1,9 +1,7 @@
 import { useState } from 'react'
-import './assets/tailwind.css'
-import './App.css'
 import photo from './assets/Saly-14.png'
-import LoginSection from './compoenents/LoginSection'
-import RegisterSection from './compoenents/RegisterSection'
+import LoginSection from './components/LoginSection'
+import RegisterSection from './components/RegisterSection'
 
 function App() {
   const [register, setRegister] = useState(false)

@@ -6,9 +6,16 @@ import {
     createUserWithEmailAndPassword
  } from 'firebase/auth'
 
-const firebaseConfig = {
-    // ... Configure your firebase here
+ const firebaseConfig = {
+    apiKey: "AIzaSyDAhvGcmiTh6rorFd-yMAqiY7LqE-BjgNY",
+    authDomain: "tariksefa-34193.firebaseapp.com",
+    projectId: "tariksefa-34193",
+    storageBucket: "tariksefa-34193.appspot.com",
+    messagingSenderId: "221196477925",
+    appId: "1:221196477925:web:1a863841513c9e5f847b0c",
+    measurementId: "G-86BM6PFNLM"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
